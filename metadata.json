@@ -1,0 +1,7 @@
+{
+  "name": "Warehouse Queue Management System",
+  "description": "A real-time logistics queue system with registration, warehouse control, TV display, and reporting features. Supports cross-tab audio notifications and real-time synchronization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
